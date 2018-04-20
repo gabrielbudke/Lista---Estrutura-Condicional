@@ -6,7 +6,7 @@ public class Exercicio06{
         int numero = Integer.parseInt(JOptionPane.showInputDialog("Número: "));
         
         if (numero != 1){
-            JOptionPane.showMessageDialog(null, "Diferente de 1 !!");
+            JOptionPane.showMessageDialog(null, "Diferente 1 !!");
 
         }else{
             JOptionPane.showMessageDialog(null, "Igual a 1 !!");
